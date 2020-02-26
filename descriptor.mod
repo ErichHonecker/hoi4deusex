@@ -13,3 +13,7 @@ tags={
 }
 name="Hearts of Iron IV:  Deus EX"
 supported_version="1.9.0"
+replace_path={
+	"common/bookmarks"
+	"common/bookmarks/"
+}
