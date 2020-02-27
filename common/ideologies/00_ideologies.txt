@@ -4,6 +4,10 @@ ideologies = {
 	
 		types = {
 			liberalism = { }
+			libertarianism = { }
+			socialism = { }
+			social_liberalism = { }
+			developing_democracy = { }
 		}
 		
 		dynamic_faction_names = {
@@ -56,21 +60,12 @@ ideologies = {
 	globalists = {
 		
 		types = {
-		
-			marxism = {
-			}
-			
-			leninism = {
-			}
-			
-			stalinism = {
-			}
-			
-			anti_revisionism = {
-			}
-			
-			anarchist_communism = {
-			}
+		    
+			mondialism = { }
+			alter_globalism = { }
+			neoliberal_globalism = { }
+			marxism_internationalism = { }
+
 		}
 		
 		dynamic_faction_names = {
@@ -122,17 +117,11 @@ ideologies = {
 	
 		types = {
 		
-			nazism = {
-			}
-			
-			fascism_ideology = {
-			}
-			
-			falangism = {
-			}
-			
-			rexism = {
-			}
+			e_democracy = { }
+			ai_state = { }
+			collective_mind = { }
+			fascism_ideology = { }
+
 		}
 		
 		dynamic_faction_names = {
@@ -179,14 +168,9 @@ ideologies = {
 	
 		types = {
 		
-			despotism  = {	}
-			
 			oligarchism  = { }
-			
 			moderatism = { }
-			
 			centrism = { }
-
 			anarchism = { }
 		}
 
@@ -236,15 +220,8 @@ ideologies = {
 	
 		types = {
 		
-			despotism  = {	}
-			
-			oligarchism  = { }
-			
-			moderatism = {	}
-			
-			centrism = { }
-
-			anarchism = { }
+			military_junta  = {	}
+			despotism = { }
 		}
 
 		dynamic_faction_names = {
