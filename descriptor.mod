@@ -12,7 +12,7 @@ tags={
 }
 name="Hearts of Iron IV:  Deus EX"
 supported_version="1.9.0"
-replace_path={
-	"common/bookmarks"
-	"common/bookmarks/"
-}
+replace_path="common/bookmarks"
+replace_path="common/decisions"
+replace_path="history/units"
+path="Hearts of Iron IV/mod/deus_ex"
